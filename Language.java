@@ -1,3 +1,3 @@
 public class Language {
-   static String lang = "سمعليقو";
+   static String lang = "السلام عليكم";
 }
