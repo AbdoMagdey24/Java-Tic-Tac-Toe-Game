@@ -1,3 +1,4 @@
 public class Language {
-   static String lang = "السلام عليكم";
+   static String ar = "السلام عليكم";
+   static String en = "Hi";
 }

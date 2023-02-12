@@ -90,7 +90,7 @@ public class TicTacToe {
   
   public static void printBoard(int[][] A) {
 
-	        System.out.println("------"+ Language.lang +" -------");
+	        System.out.println("------"+ Language.ar +" -------");
 
 	         
 	        for (int i = 0; i < 3; i++) {
